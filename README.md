@@ -1,2 +1,2 @@
 # JavaGame
-Game coded in Java using Processing.
+Simple fall style game coded in Java using Processing.
